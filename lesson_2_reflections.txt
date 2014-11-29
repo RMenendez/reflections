@@ -14,3 +14,8 @@ Finally, repository is where you have all the history and different versions of 
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can compare (git diff --staged) what you have in staging area with the last commit. So make sure, before you make the new commit, that you have a logical change. If ok, you can procede to commit. If not, you can discard or correct the changes.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For example if you want to explore a new experimental variation, or if you may want to have, in paralel, another language version.
