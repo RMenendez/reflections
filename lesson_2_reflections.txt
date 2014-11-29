@@ -19,3 +19,8 @@ You can compare (git diff --staged) what you have in staging area with the last 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 For example if you want to explore a new experimental variation, or if you may want to have, in paralel, another language version.
+
+
+How do the diagrams help you visualize the branch structure?
+
+A lot. They give a clear picture of the commits and branches. And also they point out the reachability of every node. And show parent commits.
