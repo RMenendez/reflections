@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+The main reason is to share the repository with other people, so they can look at it or we can work in a collaborating way.
