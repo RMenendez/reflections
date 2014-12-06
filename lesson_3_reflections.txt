@@ -6,3 +6,9 @@ The main reason is to share the repository with other people, so they can look a
 2 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 As with the manual vs automatic commit, with the manual pulling of changes you have more control of what you do. 
+
+3 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: creates a copy of a Git repository in another Git repository. It is used to create a clone of a repository, mainly from other user, to work on it's files.
+Clone: creates a copy of a git repository in a local computer, or of a local into another local. The cloning process is mainly used to make a copy on your local machine of a Git repository.
+Branch: Refers to the commit sequence. It implies creating another sequence of commits (the branch) different from the master sequence. It is used to allow to keep different sequences of changes of the same program.
