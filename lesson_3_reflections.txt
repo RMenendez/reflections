@@ -12,3 +12,8 @@ As with the manual vs automatic commit, with the manual pulling of changes you h
 Fork: creates a copy of a Git repository in another Git repository. It is used to create a clone of a repository, mainly from other user, to work on it's files.
 Clone: creates a copy of a git repository in a local computer, or of a local into another local. The cloning process is mainly used to make a copy on your local machine of a Git repository.
 Branch: Refers to the commit sequence. It implies creating another sequence of commits (the branch) different from the master sequence. It is used to allow to keep different sequences of changes of the same program.
+
+
+4 What is the benefit of having a copy of the last known state of the remote stored locally?
+
+There is an important benefit in that it lets you have a clear picture of the changes made in master branch (in GitHub) and differentiate them from changes made locally. It can be usefull in off-line situations, where you update locally but have no way to check with GitHub. 
