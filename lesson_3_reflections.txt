@@ -17,3 +17,8 @@ Branch: Refers to the commit sequence. It implies creating another sequence of c
 4 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 There is an important benefit in that it lets you have a clear picture of the changes made in master branch (in GitHub) and differentiate them from changes made locally. It can be usefull in off-line situations, where you update locally but have no way to check with GitHub. 
+
+
+5 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git and GitHub there would be the need to use intensive e-mail to announce your changes and make comments on them, and above all a lot of transfer of files. Also everybody should keep manually a group of coherent directories and files.It would be much harder to work that way.
