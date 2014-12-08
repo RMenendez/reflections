@@ -22,3 +22,8 @@ There is an important benefit in that it lets you have a clear picture of the ch
 5 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git and GitHub there would be the need to use intensive e-mail to announce your changes and make comments on them, and above all a lot of transfer of files. Also everybody should keep manually a group of coherent directories and files.It would be much harder to work that way.
+
+
+6 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a separate branch is the best idea when you want to share those changes and comment on them. It complicates the process, but gives the benefits of collaboration and that the changes are not incorporated before you have had this collaboration.
